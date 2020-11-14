@@ -4,4 +4,15 @@ function walkDog(){
 function leashDog(){
   
 }
-function
+function walkToPark(){
+  
+}
+function throwFrisbee(){
+  
+}
+function walkHome(){
+  
+}
+function unleashDog(){
+  
+}
